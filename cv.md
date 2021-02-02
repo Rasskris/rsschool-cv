@@ -20,14 +20,44 @@ ______________________________
 
 ### Skills
 
+<table align="center">
+  <thead>
+    <tr>
+      <th>Language</th>
+      <th>Framework</th>
+      <th>Librarie/API</th>
+      <th>Platform</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>JavaScript</td>
+      <td>Express.js</td>
+      <td>React</td>
+      <td>MacOS</td>
+    </tr>
+    <tr>
+      <td>HTML</td>
+      <td>Bootsrap</td>
+      <td>Redux-toolkit</td>
+      <td>Linux</td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td></td>
+      <td>Node.js API</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SQL</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-| `Language`     | `Framework`        | `Librarie/API` | `Platform`   |
-|:-------------: |:------------------:|:--------------:|:------------:|
-| JavaScript     | Express.js.        | React          | MacOS        |
-| HTML           | Bootsrap           | Redux-toolkit  | Linux        |  
-| CSS            |                    | Node.js API    |              |
-| SQL            |                    |                |              |
-_______________________________
+_____________________
 
 ### Example code
 
@@ -69,7 +99,7 @@ Course [Frontend Developer](https://ru.hexlet.io/programs/frontend), 2020-2021, 
 
 Elementary school teacher, 2016-2018, __Moscow Pedagogical State University__
 
-Energy and resource-saving processes in chemical technology, petrochemistry and biotechnology, 2012-2016, __Peoples' Friendship University of Russia.__
+Resource-saving processes in chemical technology and petrochemistry, 2012-2016, __Peoples' Friendship University of Russia.__
 ___________________________
 
 ### English
