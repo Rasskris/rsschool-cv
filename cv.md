@@ -53,10 +53,24 @@ const genDiff = (filepath1, filepath2, format = 'stylish') => {
 ```
 _________________________
 
+### Experience
+
+`Study project:`
+
+1. [Brain Games](https://github.com/Rasskris/Brain-Games). Set of mini math CLI games.
+
+2. [Generator of differences](https://github.com/Rasskris/Generator-of-differences). CLI utility for finding differences in two configuration files.
+
+__________________________
+
 ### Education
 
 Course [Frontend Developer](https://ru.hexlet.io/programs/frontend), 2020-2021, __Hexlet__.
 
 Elementary school teacher, 2016-2018, __Moscow Pedagogical State University__
 
-Engineer of energy and resource-saving processes in chemical technology, petrochemistry and biotechnology, 2012-2016, __Peoples' Friendship University of Russia.__
+Energy and resource-saving processes in chemical technology, petrochemistry and biotechnology, 2012-2016, __Peoples' Friendship University of Russia.__
+___________________________
+
+### English
+A1
