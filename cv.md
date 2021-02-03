@@ -56,3 +56,48 @@ ______________________
 </table>
 
 ________________________
+
+### Example code
+
+This is example code of my study project [Generator of differences](https://github.com/Rasskris/Generator-of-differences).
+
+```javascript
+const genDiff = (filepath1, filepath2, format = 'stylish') => {
+  const fileType1 = getType(filepath1);
+  const fileType2 = getType(filepath2);
+
+  const fileContent1 = getContent(filepath1);
+  const fileContent2 = getContent(filepath2);
+
+  const data1 = parse(fileType1, fileContent1);
+  const data2 = parse(fileType2, fileContent2);
+
+  const diff = buildDiff(data1, data2);
+  return render(diff, format);
+};
+```
+
+_______________________
+
+### Experience
+
+Study Project:
+
+1. [Brain Games](https://github.com/Rasskris/Brain-Games). A set of mini math CLI games.
+
+2. [Generator of differences](https://github.com/Rasskris/Generator-of-differences).
+This CLI utility compares two configuration files and displays the result of the comparison in the console.
+__________________________
+
+### Education
+
+Course "Frontend Developer", 2020-2021, [Hexlet](https://ru.hexlet.io/programs/frontend)
+
+Teacher of elementary education, 2016-2018, __Moscow Pedagogical State University__ (MPGU)
+
+Resource-saving processes in chemical technology, 2012-2016, 
+__Peoples' Friendship University of Russia__ (RUDN)
+
+### English
+
+A1
