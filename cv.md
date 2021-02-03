@@ -1,6 +1,6 @@
 ## Rassoshenko Kristina
 
-Contact details
+### Contact details
 
 __city:__ Moscow
 
@@ -11,12 +11,12 @@ __email:__ rassoshenko.kristina@yandex.ru
 __telegram:__ @rasskris
 ______________________
 
-Summary
+### Summary
 
 JavaScript Frontend Developer is seeking an opportunity to extend my web development skills and knowledge.
 ______________________
 
-Skills
+### Skills
 
 <table aling="center">
   <thead>
@@ -29,28 +29,30 @@ Skills
   </thead>
   <tbody>
     <tr>
-      <th>JavaScript</th>
+      <td>JavaScript</td>
       <td>Express.js</td>
       <td>React</td>
       <td>MacOs</td>
     </tr>
     <tr>
-      <th>HTML</th>
+      <td>HTML</td>
       <td>Bootstrap</td>
       <td>Redux-toolkit</td>
       <td>Linux</td>
     </tr>
     <tr>
-      <th>CSS</th>
+      <td>CSS</td>
       <td></td>
       <td>Node.js API</td>
       <td></td>
     </tr>
     <tr>
-      <th>SQL</th>
+      <td>SQL</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
   </tbody>
 </table>
+
+________________________
