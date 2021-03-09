@@ -68,6 +68,9 @@ a:hover,
 a:focus {
 	color: rgb(75, 72, 72);
 }
+code {
+	font-family: monospace;
+}
 .section-title {
 	text-align: center;
 	font-weight: 500;
@@ -195,6 +198,12 @@ a:focus {
 	align-content: space-between;
 }
 
+.example {
+	grid-column: span 3;
+}
+pre {
+	margin-left: -220px;
+}
 .english {
 	grid-column: span 3;
 }
@@ -239,11 +248,17 @@ a:focus {
 /* Footer styles end */
 
 /* Media styles start */
+@media screen and (max-width: 1200px) {
+	.example {
+		grid-column: span 4;
+	}
+}
 @media screen and (max-width: 650px) {
 	h1 {
 		font-size: 25px;
 		line-height: 30px;
 	}
+
 	.person__avatar-pic {
 		padding: 10px;
 		width: 100px;
