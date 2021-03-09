@@ -123,6 +123,27 @@
                     </ul>
                     </div>
                 </section>
+                <section class="info__section example">
+                    <h2 class="example__title section-title">Code example</h2>
+                    <pre>
+                        <code>
+                            const genDiff = (filepath1, filepath2, format = "stylish") => {
+                                
+                                const fileType1 = getType(filepath1);
+                                const fileType2 = getType(filepath2);
+                            
+                                const fileContent1 = getContent(filepath1);
+                                const fileContent2 = getContent(filepath2);
+                            
+                                const data1 = parse(fileType1, fileContent1);
+                                const data2 = parse(fileType2, fileContent2);
+                            
+                                const diff = buildDiff(data1, data2);
+                                return render(diff, format);
+                            };
+                        </code>
+                    </pre>
+                </section>
                 <section class="info__section english">
                     <h2 class="english__title section-title">English</h2>
                     <p class="english__level">A1+</p>
